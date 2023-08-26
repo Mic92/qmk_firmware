@@ -67,3 +67,5 @@ const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][NUM_DIRECTIONS] = {
     [WIN_FN]   = {ENCODER_CCW_CW(RM_VALD, RM_VALU) }
 };
 #endif
+
+#include "override.h"
