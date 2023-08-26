@@ -11,6 +11,7 @@ BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
 ENCODER_ENABLE = yes        # Enable Encoder
+KEY_OVERRIDE_ENABLE = yes   # Enable Key Overrides
 DIP_SWITCH_ENABLE = yes
 RGB_MATRIX_ENABLE = yes
 EEPROM_DRIVER = wear_leveling
